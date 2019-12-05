@@ -31,3 +31,8 @@ Steps for AWS Pipeline
 
 ![](Screenshots_AWS_pipeline/Amazon_sagemaker_jupyter_notebook_path.png)
 ![](Screenshots_AWS_pipeline/Amazon_Jupyter_notebook.png)
+
+4) Tensorboard ScreenShots
+
+![](TensorBoard_Accuracy_Graph.png)
+![](TensorBoard_Accuracy_Loss_Graph.png)
