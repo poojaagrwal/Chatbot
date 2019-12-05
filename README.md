@@ -8,6 +8,8 @@ Team Neurons
 
 - Saurabh Aggarwal
 
+We have immplemented a Deep learning based chatbot using state-of-the-art Attention  and Encoder-Decoder models based approach. The Cornell movie dataset contains movie titles , dialogs, movie lines, movie conversations etc. which are cleaned and tokenized using tfds SubwordTextEncoder tokenizer. Then they are converted in tf datasets. And passed through attention and encoder decoder layers for neural network learning and prediction.
+
 Google colab link - https://colab.research.google.com/drive/1wcWdOaBQ1x5zx1gkUt6zl883zzaVpfFN#scrollTo=JtNhNukNI8pI
 
 Steps for AWS Pipeline
