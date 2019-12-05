@@ -12,6 +12,8 @@ We have immplemented a Deep learning based chatbot using state-of-the-art Attent
 
 Google colab link - https://colab.research.google.com/drive/1wcWdOaBQ1x5zx1gkUt6zl883zzaVpfFN#scrollTo=JtNhNukNI8pI
 
+Dataset- Cornell Movie Dataset link - https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+
 Steps for AWS Pipeline
 
 1) Created s3 and put Cornell Movie Dataset in the bucket to access it.
